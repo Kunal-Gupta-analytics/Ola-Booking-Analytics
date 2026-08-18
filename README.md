@@ -16,7 +16,7 @@ This project analyzes Ola booking data to understand overall business performanc
 
 ## Tools & Technologies
 
-- **Excel** — Data cleaning and initial analysis
+- **Google Sheets** — Data cleaning and duplicate removal
 - **SQL** — Data querying and business analysis
 - **Power BI** — Interactive dashboard and data visualization
 - **DAX** — Measures and calculated metrics
@@ -45,11 +45,10 @@ The Power BI dashboard contains five analysis sections:
 
 | File / Folder | Description |
 |---|---|
-| `Bookings.csv` | Original booking dataset |
-| `SQL/` | SQL queries used for analysis |
-| `Ola.pbix` | Power BI dashboard file |
-| `Screenshots/` | Dashboard screenshots with analysis context |
-| `README.md` | Project documentation |
+| [Bookings.csv](./Bookings.csv) | Cleaned OLA booking dataset |
+| [SQL](./SQL/) | SQL queries used for analysis |
+| [Ola.pbix](./Ola.pbix) | Power BI dashboard file |
+| [Screenshots](./Screenshots/) | Dashboard screenshots with analysis context |
 
 ## Dashboard Screenshots
 
@@ -58,3 +57,10 @@ Detailed dashboard screenshots and their analysis are available in the [`Screens
 ## Skills Demonstrated
 
 **Data Cleaning · SQL · Excel · Power BI · DAX · Data Visualization · Business Analysis**
+
+## Contact
+
+**Kunal Gupta**
+
+- LinkedIn: [Kunal Gupta](https://www.linkedin.com/in/kunal-gupta-71210836a/)
+- Email: kunal7836ok@gmail.com
