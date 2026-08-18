@@ -56,7 +56,7 @@ Detailed dashboard screenshots and their analysis are available in the [`Screens
 
 ## Skills Demonstrated
 
-**Data Cleaning · SQL · Excel · Power BI · DAX · Data Visualization · Business Analysis**
+**Data Cleaning · SQL · Google Sheets · Power BI · DAX · Data Visualization · Business Analysis**
 
 ## Contact
 
