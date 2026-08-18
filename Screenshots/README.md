@@ -9,7 +9,7 @@ Provides an overview of booking volume, successful rides, cancellations, revenue
 
 **Key Finding:** Provides a high-level view of overall OLA booking performance.
 
-### 2. Ride Volume Analysis
+### 2.Vehicle Type Analysis
 Analyzes booking volume across vehicle types and booking statuses.
 
 **Key Finding:** Helps identify the vehicle categories contributing most to ride demand.
